@@ -8,7 +8,13 @@ A git repository for ZKWork Subspace farmer release versions
 
 ### Start Farming
 
-`./subspace-farmer farm --reward-address <YOURADDRESS> --pool ws://ssc.hk.zk.work:50002 --worker-name myfarmer path=./subspace/store,size=5T`
+#### 1. Choose and download your cpu version on release page
+
+#### 2. Unzip
+
+#### 3. Start farming
+
+`./subspace-farmer farm --reward-address <YOURADDRESS> --pool ws://ssc.hk.zk.work:50002 --worker-name myfarmer path=./store,size=5T`
 
 ### General Options
 
