@@ -6,6 +6,8 @@ A git repository for ZKWork Subspace farmer release versions
 * Discord Group :  https://discord.com/invite/pKufwyjGFF
 * Twitter : https://x.com/ZKWorkHQ
 
+### We are on Gemini-3g incentivized testnet with latest version
+
 ### Start Farming
 
 `./subspace-farmer farm --reward-address <YOURADDRESS> --pool ws://ssc.hk.zk.work:50002 --worker-name myfarmer path=./subspace/store,size=5T`
