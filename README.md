@@ -6,7 +6,7 @@ A git repository for ZKWork Subspace farmer release versions
 * Discord Group :  https://discord.com/invite/pKufwyjGFF
 * Twitter : https://x.com/ZKWorkHQ
 
-### We are on Gemini-3g incentivized testnet with latest version
+### We are on Gemini-3g incentivized testnet with official version `gemini3g-nov-07`
 
 ### Start Farming
 
